@@ -30,5 +30,4 @@ exclude qutebrowser.rcc
 exclude .coveragerc
 exclude .flake8
 exclude .pylintrc
-exclude .eslintrc
 exclude doc/help
